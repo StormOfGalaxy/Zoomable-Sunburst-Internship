@@ -1,3 +1,3 @@
 # Zoomable-Sunburst-Internship
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/StormOfGalaxy/Zoomable-Sunburst-Internship)
+This is my project for the internship at [Smart Cybersecurity](https://www.smart-cybersecurity.de/)
